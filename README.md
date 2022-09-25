@@ -1,4 +1,13 @@
 # Apuntes de Git & Github
-Comandos principales
-1 git init
-2 
+
+**Comandos principales**
+
+`git init`
+
+`git status`
+
+`git add`
+
+`git commit`
+
+
